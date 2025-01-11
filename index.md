@@ -18,8 +18,8 @@
     </div>
     <header>
       <nav>
-        <a href="" inicio">Inicio</a>
-        <a href="carta.html">Carta</a>
+        <a href="inicio">Inicio</a>
+        <a href="carta.md">Carta</a>
         <a href="bebida.html">Bebidas</a>
         <a href="reserva.html">Reservas</a>
       </nav>
